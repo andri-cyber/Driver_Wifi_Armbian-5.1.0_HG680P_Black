@@ -1,6 +1,6 @@
-# Install-Driver-Wifi-Armbian-5.1.0-HG680P
+# Install-Driver-Wifi-Armbian-5.1.0-HG680P-Black
 
-Install Driver Wifi Armbian-5.1.0 HG680P
+Install Driver Wifi Armbian-5.1.0 HG680P Black
 
 How to install
 
